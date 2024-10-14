@@ -1,0 +1,2 @@
+# nemamtusenijaktofunguje
+FLASK cosi?? 
