@@ -1,2 +1,2 @@
-# nemamtusenijaktofunguje
+# Flask-main
 FLASK cosi?? 
